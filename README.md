@@ -1,5 +1,5 @@
 # LMS
-Lab Management System (LMS) is a system that control and manage all computer in a Lab.<br>
+Lab Management System (LMS) is a system that control and manage all computers in a Lab.<br>
 Module of LMS:<br>
 Login Module:<br><br>
 <img src="images/1.png"><br><br>
